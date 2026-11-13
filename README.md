@@ -29,12 +29,20 @@ curl -fsSL https://raw.githubusercontent.com/4n5rud/Less-soemat/main/SKILL.md \
 | 6 | 장르별 허용 범위 |
 | 7 | 작업 순서 |
 | 8 | 자기 점검 체크리스트 |
+| 9 | 기술 문서와 보고 쓰기: 개요와 가치 먼저, 문서 유형 고르기, 한 문장에 생각 하나, 구체적인 수치, 용어 통일, 약어 풀어 쓰기 |
 
 ## 참고한 자료
 
-이 프롬프트는 아래 두 저장소의 내용을 읽고 정리해 새로 쓴 것입니다.
+이 프롬프트는 아래 저장소의 내용을 읽고 정리해 새로 쓴 것입니다.
 
 - [snflkd/fluent-korean](https://github.com/snflkd/fluent-korean): 의미가 분명하고 읽기 쉬운 한국어 문장을 쓰는 지침
 - [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai): 한국어 AI 문체 패턴 분류와 윤문 처방 (MIT License, Copyright (c) 2026 epoko77-ai)
+- [toss/technical-writing](https://github.com/toss/technical-writing): 토스 테크니컬 라이팅 가이드 (CC BY-NC-SA 4.0, Copyright (c) 2024 Viva Republica, Inc.)
 
 1장(한국어 문장 원칙)의 동작 범위, 문장 단위, 구 단위 1~4번은 fluent-korean의 조항과 예시를 그대로 옮겼고, 구 단위 5~7번(꺾쇠 괄호, 가운뎃점, 겹화살괄호)은 새로 더한 조항입니다. 4장(걷어 낼 쇠맛)의 처방 예시와 일부 기준(바뀐 분량 30% 등)은 im-not-ai에서 가져와 다시 썼습니다. 원본 저장소의 라이선스와 저작권 표시를 함께 확인해 주세요.
+
+9장(기술 문서와 보고 쓰기)은 토스 테크니컬 라이팅 가이드에서 1장부터 8장과 겹치지 않는 문서 구조, 문서 유형, 기술 문장, 용어 규칙만 골라 새로 줄여 쓴 것입니다. 원문은 비영리 목적 사용과 같은 조건 공유(CC BY-NC-SA 4.0)를 조건으로 하므로, 이 장을 가져다 쓸 때도 그 조건을 따라 주세요.
+
+## 라이선스
+
+[CC BY-NC-SA 4.0](LICENSE). 비영리 목적으로 출처를 밝히고 같은 조건으로 공유할 수 있습니다. 옮겨 온 부분의 MIT 고지는 [LICENSE](LICENSE)에 함께 적었습니다.
